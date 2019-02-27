@@ -7,3 +7,5 @@ vagrant up <- y dejar ocurrir la magia
 El repositorio trae un archivo de variables para configurar el usuario.
 
 Info: https://dzone.com/articles/creating-an-oracle-database-vagrant-box
+
+Es necesario tener FLASH PLAYER en el navegador.
