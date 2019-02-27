@@ -30,3 +30,7 @@ vagrant ssh
 sudo su - oracle
 
 sqlplus / as sysdba
+
+Si tienes problemas en Oracle 12 para crear usuarios o scripts prueba esto:
+
+alter session set "_ORACLE_SCRIPT"=true;  
