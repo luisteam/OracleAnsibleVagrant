@@ -22,3 +22,11 @@ Cuando termina la instalacion:
     oracle-12102-vagrant: INSTALLER: Installation complete, database ready to use!
 
 Nos da la contraseña temporal para los usuarios si no cambias la variable.
+
+Entrar en la maquina:
+
+vagrant ssh
+
+sudo su - oracle
+
+sqlplus / as sysdba
