@@ -8,4 +8,4 @@ El repositorio trae un archivo de variables para configurar el usuario.
 
 Info: https://dzone.com/articles/creating-an-oracle-database-vagrant-box
 
-Es necesario tener FLASH PLAYER en el navegador.
+Es necesario tener FLASH PLAYER en el navegador para usar EM.
