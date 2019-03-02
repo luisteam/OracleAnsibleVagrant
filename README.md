@@ -34,3 +34,7 @@ sqlplus / as sysdba
 Si tienes problemas en Oracle 12 para crear usuarios o scripts prueba esto:
 
 alter session set "_ORACLE_SCRIPT"=true;  
+
+Si vas a usar el esquema de SCOTT:
+
+ALTER USER SCOTT quota unlimited on USERS;
